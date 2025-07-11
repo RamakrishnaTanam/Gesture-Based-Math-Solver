@@ -9,13 +9,12 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
 - Built with Streamlit for a responsive web UI
 
 ## Demo 
-![Gesture Demo](media/ScreenShot(94).png)
+![Gesture in Action](media/ScreenShot(94).png)
 
-### 🧠 Gemini AI Interpreting and Solving the Equation
-![Solution Output](media/Screenshot(95).png)
 
-### 🖥️ App UI Built with Streamlit
-![Homepage UI](media/Screenshot(96).png)
+![Gemini Solving](media/Screenshot(95).png)
+
+![Streamlit UI](media/Screenshot(96).png)
 
 
 ##  Technologies Used
