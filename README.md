@@ -8,13 +8,6 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
 - Solves them using Google's **Gemini Generative AI**
 - Built with Streamlit for a responsive web UI
 
-## Demo 
-![Gesture in Action](media/ScreenShot(94).png)
-
-
-![Gemini Solving](media/Screenshot(95).png)
-
-![Streamlit UI](media/Screenshot(96).png)
 
 
 ##  Technologies Used
