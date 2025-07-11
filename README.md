@@ -1,4 +1,4 @@
-# 🤖 Gesture-Based Math Solver 
+#  Gesture-Based Math Solver 
 
 A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaPipe**, and **Google Gemini AI**.
 
@@ -21,34 +21,14 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
 ##  Running the App Locally
 
 
-1. Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/RamakrishnaTanam/Gesture-Based-Math-Solver.git
-cd Gesture-Based-Math-Solver
-2. Create and activate a virtual environment:
-For Windows:
+To use this project, follow these steps:
 
-bash
-Copy
-Edit
-python -m venv venv
-.\venv\Scripts\activate
-For macOS/Linux:
+Clone the repository: git clone https://github.com/gopiashokan/Apple-Inspired-AI-Calculator.git
 
-bash
-Copy
-Edit
-python3 -m venv venv
-source venv/bin/activate
-3. Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Run the Streamlit app:
-bash
-Copy
-Edit
-streamlit run app.py
+Install the required packages: pip install -r requirements.txt
+
+Add your Google API key to the .env file.
+
+Run the Streamlit app: streamlit run app.py
+
+Access the app in your browser at http://localhost:8501
