@@ -23,7 +23,7 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
 
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/gopiashokan/Apple-Inspired-AI-Calculator.git
+Clone the repository: git clone   (https://github.com/RamakrishnaTanam/Gesture-Based-Math-Solver.git)
 
 Install the required packages: pip install -r requirements.txt
 
