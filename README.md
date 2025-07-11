@@ -24,3 +24,24 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
    ```bash
    git clone https://github.com/RamakrishnaTanam/Gesture-Based-Math-Solver.git
    cd Gesture-Based-Math-Solver
+Create and activate virtual environment:
+
+bash
+Copy
+Edit
+python -m venv venv
+.\venv\Scripts\activate
+
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+Run the app:
+
+bash
+Copy
+Edit
+streamlit run app.py
