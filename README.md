@@ -20,27 +20,34 @@ A real-time math-solving app using hand gestures powered by **OpenCV**, **MediaP
 
 ##  Running the App Locally
 
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/RamakrishnaTanam/Gesture-Based-Math-Solver.git
-   cd Gesture-Based-Math-Solver
-Create and activate virtual environment:
+bash
+Copy
+Edit
+git clone https://github.com/RamakrishnaTanam/Gesture-Based-Math-Solver.git
+cd Gesture-Based-Math-Solver
+2. Create and activate a virtual environment:
+For Windows:
 
 bash
 Copy
 Edit
 python -m venv venv
 .\venv\Scripts\activate
-
-Install dependencies:
+For macOS/Linux:
 
 bash
 Copy
 Edit
+python3 -m venv venv
+source venv/bin/activate
+3. Install dependencies:
+bash
+Copy
+Edit
 pip install -r requirements.txt
-
-Run the app:
-
+4. Run the Streamlit app:
 bash
 Copy
 Edit
